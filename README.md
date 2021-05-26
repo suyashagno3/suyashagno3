@@ -2,8 +2,12 @@
 I am a 2nd year Mechanical Undergraduate at IIT Jodhpur. My personal interest lies in Frontend Development. I am also skilled in C++ and have basic knowledge of Data Structures and Algorithms. I am currently learning App Development using Flutter. For Web Development my preferred language is Javascript. I try to learn and dive into new things.
 
 
+This is my Portfolio website - [Portfolio](https://suyashagno3.github.io/)
+
+
 My recent projects -
 - [Gymkhana Inventory](https://github.com/suyashagno3/gymkhana-inventory)
+- [Personal Expense Manager](https://github.com/suyashagno3/Personal_Expense_Manager)
 - [Decision Tree Pruning](https://github.com/suyashagno3/IML_Course-Project_CSL2010)
 - [React Crypto Tracker](https://github.com/suyashagno3/React-Crypto-Tracker)
 
@@ -25,6 +29,8 @@ Connect with me -
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][Flutter]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][Dart]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 
 <br />
@@ -39,6 +45,8 @@ Connect with me -
 [react]:https://reactjs.org/
 [Git]:https://git-scm.com/
 [Github]:https://github.com/
+[Flutter]:https://flutter.dev/
+[Dart]:https://dart.dev/
 [link]:https://www.linkedin.com/in/suyash-agnihotri-761b84141/
 [mail]:mailto:agnihotri@iitj.ac.in
 [insta]:https://www.instagram.com/suyashagno3/
