@@ -1,5 +1,5 @@
 ### Hello there!! 👋
-I am a 2nd year Mechanical Undergraduate at IIT Jodhpur. My personal interest lies in Frontend Development. I am also skilled in C++ and have basic knowledge of Data Structures and Algorithms. I am currently learning App Development using Flutter. For Web Development my preferred language is Javascript. I try to learn and dive into new things.
+I am a 2nd year Mechanical Undergraduate at IIT Jodhpur. My personal interest lies in Frontend Web and App Development. I am also skilled in C++ and have basic knowledge of Data Structures and Algorithms. For App Development I prefer Flutter. For Web Development my preferred language is Javascript. I try to learn and dive into new things.
 
 
 This is my Portfolio website - [Portfolio](https://suyashagno3.github.io/)
