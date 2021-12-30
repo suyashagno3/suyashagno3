@@ -1,8 +1,12 @@
-### Hello there!! 👋
-I am a 3rd year Mechanical Undergraduate at IIT Jodhpur. My personal interest lies in Frontend Web and App Development. I am also skilled in C++ and have basic knowledge of Data Structures and Algorithms. For App Development I prefer Flutter. For Web Development my preferred language is Javascript. I try to learn and dive into new things.
+
+<h2 align="center">Hey, I'm Suyash Agnihotri  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2>About Me</h2>
+I am a 3rd year Mechanical Undergraduate at IIT Jodhpur. My personal interest lies in Frontend Web and App Development. I am also skilled in C++ and have basic knowledge of Data Structures and Algorithms. For App Development I prefer Flutter. Recently I also worked as a Software Developer Intern at Willings Inc. . For Web Development my preferred language is Javascript. I try to learn and dive into new things.
+<br>
+Always open to work on something new and interesting.
 
 
-This is my Portfolio website - [Portfolio](https://suyashagno3.github.io/)
+Here is the link to my Portfolio website - [Portfolio](https://suyashagno3.github.io/)
 
 
 My recent projects -
